@@ -1,15 +1,3 @@
-/* ///////////////////// search box///////////////////// */
-let openSearchBox = document.querySelector(".open-search-box");
-let closeSearchBox = document.querySelector(".close-search-box");
-let searchBox = document.querySelector(".search-box");
-openSearchBox.addEventListener("click", function () {
-    searchBox.classList.add("active");
-});
-closeSearchBox.addEventListener("click", function () {
-    searchBox.classList.remove("active");
-});
-/* ///////////////////// search box END///////////////////// */
-
 /* ///////////////////// Map ///////////////////// */
 let map;
 // get the coordinates
@@ -40,3 +28,15 @@ navigator.geolocation.getCurrentPosition(function (position) {
     }).addTo(map);
 });
 /* ///////////////////// Map END///////////////////// */
+
+/* ///////////////////// search box///////////////////// */
+let openSearchBox = document.querySelector(".open-search-box");
+let closeSearchBox = document.querySelector(".close-search-box");
+let searchBox = document.querySelector(".search-box");
+openSearchBox.addEventListener("click", function () {
+    searchBox.classList.add("active");
+});
+closeSearchBox.addEventListener("click", function () {
+    searchBox.classList.remove("active");
+});
+/* ///////////////////// search box END///////////////////// */

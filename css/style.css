@@ -207,3 +207,115 @@ body {
     border-left: 5px solid var(--primary-color);
 }
 /* ///////////////////// Map END ///////////////////// */
+/* ///////////////////// Hero section ///////////////////// */
+.hero-container {
+    background-color: var(--primary-dark-color);
+
+    border-top: 1px rgba(230, 222, 252, 0.15) solid;
+}
+.hero-section {
+    padding: 3rem 2.4rem;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+.hero-content {
+    padding: 3.6rem 5.6rem 3.6rem 1.8rem;
+}
+.hero-heading {
+    color: var(--light-color);
+    font-size: 5.2rem;
+}
+.hero-heading span {
+    display: block;
+    color: var(--dark-color);
+    position: relative;
+    z-index: 1;
+}
+.hero-heading span::after {
+    display: block;
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 100%;
+    width: 60%;
+    z-index: -1;
+    opacity: 0.7;
+    transform: scale(1.07, 1.05) skewX(-15deg);
+    background-image: linear-gradient(
+        to top left,
+        var(--primary-hover-color),
+        var(--secondary-color)
+    );
+}
+.hero-text {
+    color: var(--light-color);
+    font-size: 1.8rem;
+    margin: 3.6rem 0;
+}
+.hero-btn-container {
+    display: flex;
+    gap: 3.6rem;
+    margin-bottom: 3.6rem;
+}
+.hero-join-btn {
+    text-decoration: none;
+    padding: 1.8rem 3.6rem;
+    background-color: var(--primary-color);
+    transform: scale(1.07, 1.05) skewX(-5deg);
+    color: var(--light-color);
+    font-size: 1.8rem;
+    font-weight: 500;
+    transition: 0.5s all ease-in-out;
+    border-radius: 5px;
+}
+.hero-join-btn:hover {
+    background-image: linear-gradient(
+        to top left,
+        var(--primary-hover-color),
+        var(--secondary-color)
+    );
+    transform: scale(1.07, 1.05) skewX(0deg);
+}
+.hero-courses-btn {
+    text-decoration: none;
+    padding: 1.8rem 3.6rem;
+    background-color: transparent;
+    outline: 1px var(--secondary-color) solid;
+    color: var(--secondary-color);
+    font-size: 1.8rem;
+    font-weight: 500;
+    transition: 0.4s all ease-in-out;
+    border-radius: 5px;
+}
+.hero-courses-btn:hover {
+    background-color: var(--secondary-color);
+    color: var(--primary-dark-color);
+}
+.hero-tags {
+    display: grid;
+    grid-template-columns: 40fr 60fr;
+    color: var(--light-color);
+    font-size: 1.6rem;
+    row-gap: 1rem;
+    cursor: pointer;
+}
+
+.hero-tags p {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+.hero-img {
+    position: relative;
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: 0.3s all ease-in-out;
+}
+.hero-img img {
+    width: 100%;
+}
+
+/* ///////////////////// Hero section END ///////////////////// */

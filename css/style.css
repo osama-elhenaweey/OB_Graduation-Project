@@ -319,3 +319,155 @@ body {
 }
 
 /* ///////////////////// Hero section END ///////////////////// */
+/* ///////////////////// testimonials section  ///////////////////// */
+.testimonials-section {
+    background-color: var(--primary-color);
+    padding: 9rem 3rem;
+    text-align: center;
+}
+.testimonials-heading {
+    font-size: 3.2rem;
+    color: var(--secondary-color);
+    font-weight: 600;
+    margin-bottom: 1.8rem;
+}
+.testimonials-text {
+    color: var(--light-color);
+    font-weight: 400;
+    font-size: 1.2rem;
+}
+/* SLIDER */
+.slider {
+    max-width: 100rem;
+    height: 50rem;
+    margin: 0 auto;
+    position: relative;
+
+    /* IN THE END */
+    overflow: hidden;
+}
+
+.slide {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 50rem;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    /* THIS creates the animation! */
+    transition: transform 1s;
+}
+
+.slide > img {
+    /* Only for images that have different size than slide */
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.slider__btn {
+    position: absolute;
+    top: 50%;
+    z-index: 10;
+    border: none;
+    background: var(--primary-color);
+    border: 1px var(--light-color) solid;
+    font-family: inherit;
+    color: var(--light-color);
+    border-radius: 50%;
+    height: 5.5rem;
+    width: 5.5rem;
+    font-size: 3.25rem;
+    cursor: pointer;
+    transition: 0.3s all ease-in-out;
+}
+.slider__btn:hover {
+    background: var(--light-color);
+    color: var(--primary-color);
+}
+.slider__btn--left {
+    left: 6%;
+    transform: translate(-50%, -50%);
+}
+
+.slider__btn--right {
+    right: 6%;
+    transform: translate(50%, -50%);
+}
+/* TESTIMONIALS */
+.testimonial {
+    width: 75%;
+    position: relative;
+    background-color: var(--light-color);
+    border-radius: 12px;
+    padding: 1.8rem 2.8rem;
+}
+
+.testimonial::before {
+    content: "\201C";
+    position: absolute;
+    top: -5.7rem;
+    right: 2.8rem;
+    line-height: 1;
+    font-size: 20rem;
+    font-family: inherit;
+    color: var(--secondary-color);
+    z-index: 1;
+}
+
+.testimonial__header {
+    font-size: 2.25rem;
+    font-weight: 500;
+    margin-bottom: 1.5rem;
+    color: var(--primary-color);
+}
+
+.testimonial__text {
+    font-size: 1.7rem;
+    padding-bottom: 1.5rem;
+    margin-bottom: 1.5rem;
+    color: var(--dark-gray-color);
+    border-bottom: 1px rgba(135, 143, 151, 0.3) solid;
+}
+
+.testimonial__author {
+    margin-left: 2rem;
+    font-style: normal;
+    color: var(--primary-dark-color);
+    display: grid;
+    grid-template-columns: 6.5rem 1fr;
+    column-gap: 2rem;
+}
+
+.testimonial__photo {
+    grid-row: 1 / span 2;
+    width: 6.5rem;
+    border-radius: 50%;
+}
+.testimonial__rate {
+    color: var(--secondary-color);
+    cursor: pointer;
+}
+.testimonial__name {
+    font-size: 1.7rem;
+    font-weight: 600;
+    align-self: end;
+    margin: 0;
+}
+
+.testimonial__location {
+    font-size: 1.5rem;
+}
+
+.section__title--testimonials {
+    margin-bottom: 4rem;
+}
+.testimonials-numbers {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+/* ///////////////////// testimonials section END ///////////////////// */

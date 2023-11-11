@@ -1126,11 +1126,11 @@ footer {
 }
 
 footer .footer-head {
-    height: 25vh;
+    /* height: 25vh; */
     display: flex;
     justify-content: space-between;
     align-items: center;
-    border-bottom: 1px solid #ffffffb3;
+    border-bottom: 1px rgba(135, 143, 151, 0.3) solid;
 }
 footer .footer-head .logo {
     display: flex;
@@ -1227,9 +1227,11 @@ footer .footer-head .social .icons a:hover::before {
 }
 
 footer .footer-Body {
-    height: 65vh;
-    padding-top: 50px;
-    border-bottom: 1px solid #ffffffb3;
+    /* height: 65vh; */
+    padding-top: 5rem;
+    padding-bottom: 2rem;
+
+    border-bottom: 1px rgba(135, 143, 151, 0.3) solid;
     display: flex;
     align-items: flex-start;
     justify-content: space-between;
@@ -1368,7 +1370,8 @@ footer .footer-end {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    height: 10vh;
+    /* height: 10vh; */
+    margin-top: 1rem;
 }
 footer .footer-end p {
     color: var(--light-color);

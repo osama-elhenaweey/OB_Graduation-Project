@@ -645,8 +645,7 @@ body {
 .container {
     margin-left: 8%;
     margin-right: 8%;
-    padding-left: 15px;
-    padding-right: 15px;
+    padding: 2.4rem 1.5rem;
 }
 /* Small
 @media (min-width:768px){
@@ -721,7 +720,8 @@ Large
 }
 .catagories-sec .hold {
     overflow: hidden;
-    height: 35vh;
+    height: 50vh;
+
     position: relative;
 }
 .catagories-sec .cat-body {
@@ -747,7 +747,7 @@ Large
     align-items: center;
     flex-direction: column;
     flex: 1;
-    height: 30vh;
+    /* height: 30vh; */
     cursor: pointer;
     padding: 25px;
     border-radius: 6px;
@@ -789,6 +789,7 @@ Large
 .catagories-sec .cat-body .box span {
     color: var(--dark-gray-color);
     font-size: 13px;
+    margin-top: auto;
 }
 
 .catagories-sec .span-pullets {

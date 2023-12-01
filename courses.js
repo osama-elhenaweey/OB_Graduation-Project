@@ -14,7 +14,7 @@ const noResults = document.querySelector("#no-results");
 
 const ratingsContainer = document.querySelector("#post-ratings");
 const instructorsContainer = document.querySelector("#post-instructors");
-fetch("js/courses-data.json").then(async (response) => {
+fetch(`/js/courses-data.json`).then(async (response) => {
     postsData = await response.json();
     postsData.map((post) => createPost(post));
     postCount.innerText = postsData.length;

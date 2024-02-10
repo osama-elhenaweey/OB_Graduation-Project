@@ -1,7 +1,7 @@
 [
     {
         "title": "How to Build A JavaScript Countdown Timer",
-        "link": " ",
+        "link": "course-page.html",
         "image": "images/course-img/course-1.png",
         "categories": ["JavaScript", "Timer"],
         "level": "Advanced",
@@ -13,7 +13,7 @@
     },
     {
         "title": "How to Create a Sortable HTML Table with JavaScript",
-        "link": " ",
+        "link": "course-page.html",
         "image": "images/course-img/course-2.jpg",
         "categories": ["JavaScript", "Sorting", "Data Structures"],
         "level": "Advanced",
@@ -25,7 +25,7 @@
     },
     {
         "title": "How to Implement a “Load More” Button With Vanilla JavaScript",
-        "link": "",
+        "link": "course-page.html",
         "image": "images/course-img/course-3.jpg",
         "categories": ["JavaScript", "UX"],
         "level": "Intermediate",
@@ -37,7 +37,7 @@
     },
     {
         "title": "How to Implement Infinite Scrolling With JavaScript",
-        "link": "",
+        "link": "course-page.html",
         "image": "images/course-img/course-4.jpg",
         "categories": ["JavaScript", "UX", "Scroll Events"],
         "level": "Advanced",
@@ -49,7 +49,7 @@
     },
     {
         "title": "How to Implement Pagination with Vanilla JavaScript",
-        "link": "",
+        "link": "course-page.html",
         "image": "images/course-img/course-1.png",
         "categories": ["JavaScript", "UX", "Navigation Design"],
         "level": "Intermediate",
@@ -61,7 +61,7 @@
     },
     {
         "title": "How To Build a Simple Carousel With Vanilla JavaScript (14 Lines of Code!)",
-        "link": " ",
+        "link": "course-page.html",
         "image": "images/course-img/course-2.jpg",
         "categories": ["JavaScript", "Slider"],
         "level": "Intermediate",
@@ -73,7 +73,7 @@
     },
     {
         "title": "4 Quick Steps to Make a Website Responsive",
-        "link": "",
+        "link": "course-page.html",
         "image": "images/course-img/course-3.jpg",
         "categories": ["Responsive Web Design"],
         "level": "Beginner",
@@ -85,7 +85,7 @@
     },
     {
         "title": "How to Recreate Material Design Floating Labels",
-        "link": " ",
+        "link": "course-page.html",
         "image": "images/course-img/course-1.png",
         "categories": ["Material Design"],
         "level": "Beginner",
@@ -97,7 +97,7 @@
     },
     {
         "title": "How to Generate Random Background Colors With JavaScript",
-        "link": " ",
+        "link": "course-page.html",
         "image": "images/course-img/course-2.jpg",
         "categories": ["JavaScript"],
         "level": "Beginner",
@@ -109,7 +109,7 @@
     },
     {
         "title": "Switch Between Color Schemes with CSS Variables and JavaScript",
-        "link": " ",
+        "link": "course-page.html",
         "image": "images/course-img/course-3.jpg",
         "categories": ["CSS", "JavaScript"],
         "level": "Intermediate",
@@ -121,7 +121,7 @@
     },
     {
         "title": "How to Implement Debounce and Throttle with JavaScript",
-        "link": " ",
+        "link": "course-page.html",
         "image": "images/course-img/course-4.jpg",
         "categories": ["JavaScript", "Perfomance"],
         "level": "Intermediate",
@@ -133,7 +133,7 @@
     },
     {
         "title": "How to Animate on Scroll With Vanilla JavaScript",
-        "link": " ",
+        "link": "course-page.html",
         "image": "images/course-img/course-1.png",
         "categories": ["JavaScript", "Scroll Events", "Animation"],
         "level": "Intermediate",

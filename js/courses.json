@@ -190,5 +190,53 @@
         "instructorImg": "images/profesours/osama.jpg",
         "lessons": "10 lessons",
         "duration": "3 Weeks"
+    },
+    {
+        "title": "Foundations of Artificial Intelligence",
+        "link": "course-page.html",
+        "image": "images/course-img/course-17.webp",
+        "categories": ["AI"],
+        "level": "Intermediate",
+        "rating": "4.0 ⭐⭐⭐⭐",
+        "instructor": "Osama EL-Henaweey",
+        "instructorImg": "images/profesours/osama.jpg",
+        "lessons": "12 lessons",
+        "duration": "3 Weeks"
+    },
+    {
+        "title": "Computer Fundamentals: Understanding the Basics",
+        "link": "course-page.html",
+        "image": "images/course-img/course-18.png",
+        "categories": ["Programming"],
+        "level": "Beginner",
+        "rating": "4.0 ⭐⭐⭐⭐",
+        "instructor": "Basel Khial",
+        "instructorImg": "images/profesours/basel.jpg",
+        "lessons": "14 lessons",
+        "duration": "4 Weeks"
+    },
+    {
+        "title": "PHP Fundamentals: Building Dynamic Web Applications",
+        "link": "course-page.html",
+        "image": "images/course-img/course-19.jpg",
+        "categories": ["Programming"],
+        "level": "Intermediate",
+        "rating": "5.0 ⭐⭐⭐⭐⭐",
+        "instructor": "Basel Khial",
+        "instructorImg": "images/profesours/basel.jpg",
+        "lessons": "14 lessons",
+        "duration": "4 Weeks"
+    },
+    {
+        "title": "Cybersecurity Best Practices: Implementing Effective Security Measures",
+        "link": "course-page.html",
+        "image": "images/course-img/course-20.jpeg",
+        "categories": ["Programming"],
+        "level": "Beginner",
+        "rating": "5.0 ⭐⭐⭐⭐⭐",
+        "instructor": "Osama EL-Henaweey",
+        "instructorImg": "images/profesours/osama.jpg",
+        "lessons": "10 lessons",
+        "duration": "3 Weeks"
     }
 ]

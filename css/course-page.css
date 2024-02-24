@@ -413,6 +413,11 @@ body {
     color: #444;
     font-weight: 500;
 }
+.accordion-list-elements span a {
+    color: #444;
+    font-weight: 500;
+    text-decoration: none;
+}
 .accordion-list-elements span i {
     color: var(--golbal-text-color);
 }

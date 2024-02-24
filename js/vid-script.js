@@ -64,7 +64,7 @@ let data = [
 data.forEach((video, i) => {
     let video_element = `
                 <div class="video" data-id="${video.id}">
-                    <img src="../images/vid-images/play.svg" alt="">
+                    <img src="./images/vid-images/play.svg" alt="">
                     <p>${i + 1 > 9 ? i + 1 : "0" + (i + 1)}. </p>
                     <h3 class="title">${video.title}</h3>
                     <p class="time">${video.duration}</p>
@@ -75,19 +75,19 @@ data.forEach((video, i) => {
 
 let videos = document.querySelectorAll(".video");
 videos[0].classList.add("active");
-videos[0].querySelector("img").src = "../images/vid-images/pause.svg";
+videos[0].querySelector("img").src = "./images/vid-images/pause.svg";
 
 videos.forEach((selected_video) => {
     selected_video.onclick = () => {
         for (all_videos of videos) {
             all_videos.classList.remove("active");
             all_videos.querySelector("img").src =
-                "../images/vid-images/play.svg";
+                "./images/vid-images/play.svg";
         }
 
         selected_video.classList.add("active");
         selected_video.querySelector("img").src =
-            "../images/vid-images/pause.svg";
+            "./images/vid-images/pause.svg";
 
         let match_video = data.find(
             (video) => video.id == selected_video.dataset.id

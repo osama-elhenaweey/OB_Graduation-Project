@@ -24,6 +24,25 @@
             "CSS animations and transitions.",
             "Cross-browser compatibility and debugging."
         ],
+        "cost": "90",
+        "step1": {
+            "name": [
+                "Course Introduction: Overview and Objectives",
+                "Understanding Fundamentals: Core Concepts and Principles",
+                "Project-Based Learning: Real-World Application and Implementation"
+            ],
+            "link": ["../vid.html", "../vid.html", "../vid.html", ""],
+            "quiz": "js-questions.json"
+        },
+        "step2": {
+            "name": [
+                "Final Project: Integration and Synthesis of Course Concepts",
+                "Special Topics: Exploring Emerging Trends and Technologies",
+                "Final Project: Integration and Synthesis of Course Concepts"
+            ],
+            "link": ["../vid.html", "../vid.html", "../vid.html", ""],
+            "quiz": "js-questions.json"
+        },
         "requirements": [
             "A computer/laptop with internet access.",
             "Text editor software like Sublime Text, VS Code, or Atom.",
@@ -57,6 +76,25 @@
             "File handling in C++.",
             "Exception handling."
         ],
+        "cost": "90",
+        "step1": {
+            "name": [
+                "Course Introduction: Overview and Objectives",
+                "Understanding Fundamentals: Core Concepts and Principles",
+                "Project-Based Learning: Real-World Application and Implementation"
+            ],
+            "link": ["../vid.html", "../vid.html", "../vid.html", ""],
+            "quiz": "js-questions.json"
+        },
+        "step2": {
+            "name": [
+                "Final Project: Integration and Synthesis of Course Concepts",
+                "Special Topics: Exploring Emerging Trends and Technologies",
+                "Final Project: Integration and Synthesis of Course Concepts"
+            ],
+            "link": ["../vid.html", "../vid.html", "../vid.html", ""],
+            "quiz": "js-questions.json"
+        },
         "requirements": [
             "A computer/laptop with a C++ compiler installed (e.g., GCC, Visual Studio).",
             "Text editor or Integrated Development Environment (IDE) like Visual Studio Code or Code::Blocks.",
@@ -90,6 +128,25 @@
             "CSS animations and transitions.",
             "Cross-browser compatibility and debugging."
         ],
+        "cost": "90",
+        "step1": {
+            "name": [
+                "Course Introduction: Overview and Objectives",
+                "Understanding Fundamentals: Core Concepts and Principles",
+                "Project-Based Learning: Real-World Application and Implementation"
+            ],
+            "link": ["../vid.html", "../vid.html", "../vid.html", ""],
+            "quiz": "js-questions.json"
+        },
+        "step2": {
+            "name": [
+                "Final Project: Integration and Synthesis of Course Concepts",
+                "Special Topics: Exploring Emerging Trends and Technologies",
+                "Final Project: Integration and Synthesis of Course Concepts"
+            ],
+            "link": ["../vid.html", "../vid.html", "../vid.html", ""],
+            "quiz": "js-questions.json"
+        },
         "requirements": [
             "A computer/laptop with internet access.",
             "Text editor software like Sublime Text, VS Code, or Atom.",
@@ -123,6 +180,25 @@
             "Error handling and debugging techniques.",
             "Introduction to modern JavaScript frameworks/libraries (e.g., React, Angular, Vue)."
         ],
+        "cost": "90",
+        "step1": {
+            "name": [
+                "Course Introduction: Overview and Objectives",
+                "Understanding Fundamentals: Core Concepts and Principles",
+                "Project-Based Learning: Real-World Application and Implementation"
+            ],
+            "link": ["../vid.html", "../vid.html", "../vid.html", ""],
+            "quiz": "js-questions.json"
+        },
+        "step2": {
+            "name": [
+                "Final Project: Integration and Synthesis of Course Concepts",
+                "Special Topics: Exploring Emerging Trends and Technologies",
+                "Final Project: Integration and Synthesis of Course Concepts"
+            ],
+            "link": ["../vid.html", "../vid.html", "../vid.html", ""],
+            "quiz": "js-questions.json"
+        },
         "requirements": [
             "A computer/laptop with internet access.",
             "Text editor software like Visual Studio Code, Sublime Text, or Atom.",
@@ -156,6 +232,25 @@
             "Error handling and debugging techniques.",
             "Introduction to modern JavaScript frameworks/libraries (e.g., React, Angular, Vue)."
         ],
+        "cost": "90",
+        "step1": {
+            "name": [
+                "Course Introduction: Overview and Objectives",
+                "Understanding Fundamentals: Core Concepts and Principles",
+                "Project-Based Learning: Real-World Application and Implementation"
+            ],
+            "link": ["../vid.html", "../vid.html", "../vid.html", ""],
+            "quiz": "js-questions.json"
+        },
+        "step2": {
+            "name": [
+                "Final Project: Integration and Synthesis of Course Concepts",
+                "Special Topics: Exploring Emerging Trends and Technologies",
+                "Final Project: Integration and Synthesis of Course Concepts"
+            ],
+            "link": ["../vid.html", "../vid.html", "../vid.html", ""],
+            "quiz": "js-questions.json"
+        },
         "requirements": [
             "A computer/laptop with internet access.",
             "Text editor software like Visual Studio Code, Sublime Text, or Atom.",
@@ -189,12 +284,84 @@
             "Using Hooks for state and effects.",
             "Introduction to Redux for state management in larger applications."
         ],
+        "cost": "90",
+        "step1": {
+            "name": [
+                "Course Introduction: Overview and Objectives",
+                "Understanding Fundamentals: Core Concepts and Principles",
+                "Project-Based Learning: Real-World Application and Implementation"
+            ],
+            "link": ["../vid.html", "../vid.html", "../vid.html", ""],
+            "quiz": "js-questions.json"
+        },
+        "step2": {
+            "name": [
+                "Final Project: Integration and Synthesis of Course Concepts",
+                "Special Topics: Exploring Emerging Trends and Technologies",
+                "Final Project: Integration and Synthesis of Course Concepts"
+            ],
+            "link": ["../vid.html", "../vid.html", "../vid.html", ""],
+            "quiz": "js-questions.json"
+        },
         "requirements": [
             "A computer/laptop with internet access.",
             "Node.js installed for package management with npm.",
             "Text editor like Visual Studio Code, Sublime Text, or Atom.",
             "Basic understanding of HTML, CSS, and JavaScript.",
             "Eagerness to learn and practice React concepts."
+        ]
+    },
+    {
+        "title": "Algorithmic Mastery: Solving Problems with Efficiency and Elegance",
+        "image": "images/course-img/course-7.jpeg",
+        "categories": ["Algorithms"],
+        "level": "Intermediate",
+        "rating": "4.0",
+        "enrolled": "31 enrolled",
+        "duration": "6 Weeks",
+        "instructor": "Ahmed Metwally",
+        "instructorImg": "images/profesours/metwally.jpg",
+        "lessons": "1 lessons",
+        "quizzes": "2",
+        "overview": "An algorithms course teaches the fundamental techniques and principles for solving computational problems efficiently.",
+        "learn": [
+            "Become a UX designer.",
+            " You will be able to add UX designer to your CV",
+            "Become a UI designer.",
+            "Build & test a full website design.",
+            "Create your first UX brief & persona.",
+            "Create quick wireframes.",
+            "Downloadable exercise files",
+            "Build a UX project from beginning to end.",
+            "Learn to design websites & mobile phone apps.",
+            "All the techniques used by UX professionals"
+        ],
+        "cost": "90",
+        "step1": {
+            "name": [
+                "Course Introduction: Overview and Objectives",
+                "Understanding Fundamentals: Core Concepts and Principles",
+                "Project-Based Learning: Real-World Application and Implementation"
+            ],
+            "link": ["../vid.html", "../vid.html", "../vid.html", ""],
+            "quiz": "js-questions.json"
+        },
+        "step2": {
+            "name": [
+                "Final Project: Integration and Synthesis of Course Concepts",
+                "Special Topics: Exploring Emerging Trends and Technologies",
+                "Final Project: Integration and Synthesis of Course Concepts"
+            ],
+            "link": ["../vid.html", "../vid.html", "../vid.html", ""],
+            "quiz": "js-questions.json"
+        },
+
+        "requirements": [
+            "ou will need a copy of Adobe XD 2019 or above. A free trial can be downloaded from Adobe.",
+
+            "No previous design experience is needed.",
+
+            "No previous Adobe XD skills are needed."
         ]
     },
     {
@@ -221,6 +388,25 @@
             "Learn to design both websites and mobile apps.",
             "Acquire techniques commonly used by UX professionals."
         ],
+        "cost": "90",
+        "step1": {
+            "name": [
+                "Course Introduction: Overview and Objectives",
+                "Understanding Fundamentals: Core Concepts and Principles",
+                "Project-Based Learning: Real-World Application and Implementation"
+            ],
+            "link": ["../vid.html", "../vid.html", "../vid.html", ""],
+            "quiz": "js-questions.json"
+        },
+        "step2": {
+            "name": [
+                "Final Project: Integration and Synthesis of Course Concepts",
+                "Special Topics: Exploring Emerging Trends and Technologies",
+                "Final Project: Integration and Synthesis of Course Concepts"
+            ],
+            "link": ["../vid.html", "../vid.html", "../vid.html", ""],
+            "quiz": "js-questions.json"
+        },
         "requirements": [
             "Access to Figma software (free to use online).",
             "No previous design experience required.",
@@ -252,6 +438,25 @@
             "Write unit tests and conduct integration testing.",
             "Explore advanced topics such as WebSocket communication or microservices architecture."
         ],
+        "cost": "90",
+        "step1": {
+            "name": [
+                "Course Introduction: Overview and Objectives",
+                "Understanding Fundamentals: Core Concepts and Principles",
+                "Project-Based Learning: Real-World Application and Implementation"
+            ],
+            "link": ["../vid.html", "../vid.html", "../vid.html", ""],
+            "quiz": "js-questions.json"
+        },
+        "step2": {
+            "name": [
+                "Final Project: Integration and Synthesis of Course Concepts",
+                "Special Topics: Exploring Emerging Trends and Technologies",
+                "Final Project: Integration and Synthesis of Course Concepts"
+            ],
+            "link": ["../vid.html", "../vid.html", "../vid.html", ""],
+            "quiz": "js-questions.json"
+        },
         "requirements": [
             "Access to a computer with internet connectivity.",
             "Basic knowledge of JavaScript programming language.",
@@ -285,6 +490,25 @@
             "Optimize app performance and responsiveness.",
             "Test and debug Flutter apps for ensuring quality and reliability."
         ],
+        "cost": "90",
+        "step1": {
+            "name": [
+                "Course Introduction: Overview and Objectives",
+                "Understanding Fundamentals: Core Concepts and Principles",
+                "Project-Based Learning: Real-World Application and Implementation"
+            ],
+            "link": ["../vid.html", "../vid.html", "../vid.html", ""],
+            "quiz": "js-questions.json"
+        },
+        "step2": {
+            "name": [
+                "Final Project: Integration and Synthesis of Course Concepts",
+                "Special Topics: Exploring Emerging Trends and Technologies",
+                "Final Project: Integration and Synthesis of Course Concepts"
+            ],
+            "link": ["../vid.html", "../vid.html", "../vid.html", ""],
+            "quiz": "js-questions.json"
+        },
         "requirements": [
             "Access to a computer with internet connectivity.",
             "Basic understanding of programming concepts.",
@@ -318,6 +542,25 @@
             "Integrate Sass into existing Node.js projects seamlessly.",
             "Explore advanced Sass techniques for dynamic styling and theming."
         ],
+        "cost": "90",
+        "step1": {
+            "name": [
+                "Course Introduction: Overview and Objectives",
+                "Understanding Fundamentals: Core Concepts and Principles",
+                "Project-Based Learning: Real-World Application and Implementation"
+            ],
+            "link": ["../vid.html", "../vid.html", "../vid.html", ""],
+            "quiz": "js-questions.json"
+        },
+        "step2": {
+            "name": [
+                "Final Project: Integration and Synthesis of Course Concepts",
+                "Special Topics: Exploring Emerging Trends and Technologies",
+                "Final Project: Integration and Synthesis of Course Concepts"
+            ],
+            "link": ["../vid.html", "../vid.html", "../vid.html", ""],
+            "quiz": "js-questions.json"
+        },
         "requirements": [
             "Access to a computer with internet connectivity.",
             "Basic knowledge of HTML, CSS, and JavaScript.",
@@ -351,6 +594,25 @@
             "Learn networking strategies to build professional relationships in the tech community.",
             "Practice self-awareness and self-care for maintaining well-being and resilience."
         ],
+        "cost": "90",
+        "step1": {
+            "name": [
+                "Course Introduction: Overview and Objectives",
+                "Understanding Fundamentals: Core Concepts and Principles",
+                "Project-Based Learning: Real-World Application and Implementation"
+            ],
+            "link": ["../vid.html", "../vid.html", "../vid.html", ""],
+            "quiz": "js-questions.json"
+        },
+        "step2": {
+            "name": [
+                "Final Project: Integration and Synthesis of Course Concepts",
+                "Special Topics: Exploring Emerging Trends and Technologies",
+                "Final Project: Integration and Synthesis of Course Concepts"
+            ],
+            "link": ["../vid.html", "../vid.html", "../vid.html", ""],
+            "quiz": "js-questions.json"
+        },
         "requirements": [
             "Access to a computer with internet connectivity.",
             "Basic understanding of Node.js and software development concepts (recommended).",
@@ -384,6 +646,25 @@
             "Understand network flow algorithms.",
             "Master string algorithms covering pattern matching and string manipulation."
         ],
+        "cost": "90",
+        "step1": {
+            "name": [
+                "Course Introduction: Overview and Objectives",
+                "Understanding Fundamentals: Core Concepts and Principles",
+                "Project-Based Learning: Real-World Application and Implementation"
+            ],
+            "link": ["../vid.html", "../vid.html", "../vid.html", ""],
+            "quiz": "js-questions.json"
+        },
+        "step2": {
+            "name": [
+                "Final Project: Integration and Synthesis of Course Concepts",
+                "Special Topics: Exploring Emerging Trends and Technologies",
+                "Final Project: Integration and Synthesis of Course Concepts"
+            ],
+            "link": ["../vid.html", "../vid.html", "../vid.html", ""],
+            "quiz": "js-questions.json"
+        },
         "requirements": [
             "Access to a computer with internet connectivity.",
             "Strong understanding of programming fundamentals.",
@@ -417,6 +698,25 @@
             "CSS animations and transitions.",
             "Cross-browser compatibility and debugging."
         ],
+        "cost": "90",
+        "step1": {
+            "name": [
+                "Course Introduction: Overview and Objectives",
+                "Understanding Fundamentals: Core Concepts and Principles",
+                "Project-Based Learning: Real-World Application and Implementation"
+            ],
+            "link": ["../vid.html", "../vid.html", "../vid.html", ""],
+            "quiz": "js-questions.json"
+        },
+        "step2": {
+            "name": [
+                "Final Project: Integration and Synthesis of Course Concepts",
+                "Special Topics: Exploring Emerging Trends and Technologies",
+                "Final Project: Integration and Synthesis of Course Concepts"
+            ],
+            "link": ["../vid.html", "../vid.html", "../vid.html", ""],
+            "quiz": "js-questions.json"
+        },
         "requirements": [
             "A computer/laptop with internet access.",
             "Text editor software like Sublime Text, VS Code, or Atom.",
@@ -450,6 +750,25 @@
             "Explore database deployment options and best practices for production environments.",
             "Understand database backup and recovery strategies to ensure data reliability."
         ],
+        "cost": "90",
+        "step1": {
+            "name": [
+                "Course Introduction: Overview and Objectives",
+                "Understanding Fundamentals: Core Concepts and Principles",
+                "Project-Based Learning: Real-World Application and Implementation"
+            ],
+            "link": ["../vid.html", "../vid.html", "../vid.html", ""],
+            "quiz": "js-questions.json"
+        },
+        "step2": {
+            "name": [
+                "Final Project: Integration and Synthesis of Course Concepts",
+                "Special Topics: Exploring Emerging Trends and Technologies",
+                "Final Project: Integration and Synthesis of Course Concepts"
+            ],
+            "link": ["../vid.html", "../vid.html", "../vid.html", ""],
+            "quiz": "js-questions.json"
+        },
         "requirements": [
             "Access to a computer with internet connectivity.",
             "Basic knowledge of JavaScript and Node.js programming.",
@@ -483,6 +802,25 @@
             "Deploying Node.js and Python applications together in production environments.",
             "Exploring best practices and patterns for Node.js and Python integration."
         ],
+        "cost": "90",
+        "step1": {
+            "name": [
+                "Course Introduction: Overview and Objectives",
+                "Understanding Fundamentals: Core Concepts and Principles",
+                "Project-Based Learning: Real-World Application and Implementation"
+            ],
+            "link": ["../vid.html", "../vid.html", "../vid.html", ""],
+            "quiz": "js-questions.json"
+        },
+        "step2": {
+            "name": [
+                "Final Project: Integration and Synthesis of Course Concepts",
+                "Special Topics: Exploring Emerging Trends and Technologies",
+                "Final Project: Integration and Synthesis of Course Concepts"
+            ],
+            "link": ["../vid.html", "../vid.html", "../vid.html", ""],
+            "quiz": "js-questions.json"
+        },
         "requirements": [
             "Access to a computer with internet connectivity.",
             "Proficiency in JavaScript for Node.js development.",
@@ -516,6 +854,25 @@
             "Understand ethical considerations and biases in AI algorithms.",
             "Explore real-world AI applications in various industries such as healthcare, finance, and transportation."
         ],
+        "cost": "90",
+        "step1": {
+            "name": [
+                "Course Introduction: Overview and Objectives",
+                "Understanding Fundamentals: Core Concepts and Principles",
+                "Project-Based Learning: Real-World Application and Implementation"
+            ],
+            "link": ["../vid.html", "../vid.html", "../vid.html", ""],
+            "quiz": "js-questions.json"
+        },
+        "step2": {
+            "name": [
+                "Final Project: Integration and Synthesis of Course Concepts",
+                "Special Topics: Exploring Emerging Trends and Technologies",
+                "Final Project: Integration and Synthesis of Course Concepts"
+            ],
+            "link": ["../vid.html", "../vid.html", "../vid.html", ""],
+            "quiz": "js-questions.json"
+        },
         "requirements": [
             "Access to a computer with internet connectivity.",
             "Basic understanding of programming concepts and mathematics (linear algebra, calculus, probability).",
@@ -549,6 +906,25 @@
             "Explore emerging technologies and trends in computing.",
             "Gain problem-solving and critical thinking skills relevant to computing."
         ],
+        "cost": "90",
+        "step1": {
+            "name": [
+                "Course Introduction: Overview and Objectives",
+                "Understanding Fundamentals: Core Concepts and Principles",
+                "Project-Based Learning: Real-World Application and Implementation"
+            ],
+            "link": ["../vid.html", "../vid.html", "../vid.html", ""],
+            "quiz": "js-questions.json"
+        },
+        "step2": {
+            "name": [
+                "Final Project: Integration and Synthesis of Course Concepts",
+                "Special Topics: Exploring Emerging Trends and Technologies",
+                "Final Project: Integration and Synthesis of Course Concepts"
+            ],
+            "link": ["../vid.html", "../vid.html", "../vid.html", ""],
+            "quiz": "js-questions.json"
+        },
         "requirements": [
             "Access to a computer with internet connectivity.",
             "Basic familiarity with using computers and software applications.",
@@ -582,6 +958,25 @@
             "File handling operations in PHP.",
             "Introduction to object-oriented programming in PHP."
         ],
+        "cost": "90",
+        "step1": {
+            "name": [
+                "Course Introduction: Overview and Objectives",
+                "Understanding Fundamentals: Core Concepts and Principles",
+                "Project-Based Learning: Real-World Application and Implementation"
+            ],
+            "link": ["../vid.html", "../vid.html", "../vid.html", ""],
+            "quiz": "js-questions.json"
+        },
+        "step2": {
+            "name": [
+                "Final Project: Integration and Synthesis of Course Concepts",
+                "Special Topics: Exploring Emerging Trends and Technologies",
+                "Final Project: Integration and Synthesis of Course Concepts"
+            ],
+            "link": ["../vid.html", "../vid.html", "../vid.html", ""],
+            "quiz": "js-questions.json"
+        },
         "requirements": [
             "Basic understanding of HTML and CSS.",
             "Familiarity with programming concepts.",
@@ -615,6 +1010,25 @@
             "Implement secure coding practices to mitigate software vulnerabilities.",
             "Keep abreast of emerging threats and technologies in the field of cybersecurity."
         ],
+        "cost": "90",
+        "step1": {
+            "name": [
+                "Course Introduction: Overview and Objectives",
+                "Understanding Fundamentals: Core Concepts and Principles",
+                "Project-Based Learning: Real-World Application and Implementation"
+            ],
+            "link": ["../vid.html", "../vid.html", "../vid.html", ""],
+            "quiz": "js-questions.json"
+        },
+        "step2": {
+            "name": [
+                "Final Project: Integration and Synthesis of Course Concepts",
+                "Special Topics: Exploring Emerging Trends and Technologies",
+                "Final Project: Integration and Synthesis of Course Concepts"
+            ],
+            "link": ["../vid.html", "../vid.html", "../vid.html", ""],
+            "quiz": "js-questions.json"
+        },
         "requirements": [
             "Access to a computer with internet connectivity.",
             "Basic understanding of computer networks and operating systems.",
